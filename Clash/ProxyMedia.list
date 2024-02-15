@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2023-06-04 16:14:19
-# 数量：365条
+# 更新：2024-01-23 22:08:30
+# 数量：368条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazon.jobs
+DOMAIN-SUFFIX,amazontools.com
+DOMAIN-SUFFIX,amazontours.com
 DOMAIN-SUFFIX,amazonuniversity.jobs
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
@@ -79,6 +81,12 @@ DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
+
+# B_Global
+USER-AGENT,app/bstar*
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bstarstatic.com
+DOMAIN,pic-bstarstatic.akamaized.net
 
 # DAZN
 USER-AGENT,DAZN*
@@ -153,7 +161,6 @@ DOMAIN-SUFFIX,hbonow.com
 
 # HBO_GO_HKG
 USER-AGENT,HBO%20GO%20PROD*
-DOMAIN-KEYWORD,.hbogoasia.
 DOMAIN-KEYWORD,hbogoasia
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,bcbolthboa-a.akamaihd.net
@@ -299,6 +306,7 @@ IP-CIDR,185.9.188.0/22,no-resolve
 IP-CIDR,192.173.64.0/18,no-resolve
 IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
+IP-CIDR,203.75.84.0/24,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
 IP-CIDR,208.75.76.0/22,no-resolve
 
@@ -334,7 +342,6 @@ DOMAIN-SUFFIX,olevodtv.com
 
 # OpenAi
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -343,6 +350,8 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
