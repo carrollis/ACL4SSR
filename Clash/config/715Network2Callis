@@ -80,7 +80,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置分组标志位
 custom_proxy_group=🚀 节点选择`select`[]DIRECT
 custom_proxy_group=🛩️ IP国内固定`select`.*
-custom_proxy_group=📲 国内IP锁定`select`[]🛩️ IP国内固定`[]🚀 节点选择`[]DIRECT
+custom_proxy_group=📲 国内IP锁定`select`[]🛩️ IP国内固定`[]DIRECT
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
