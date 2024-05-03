@@ -1,10 +1,22 @@
+#PC网页版&PC版应用
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
+DOMAIN-SUFFIX,ichnaea.netflix.com
+DOMAIN-SUFFIX,assets.nflxext.com
+#Shield TV版
+nrdp.prod.cloud.netflix.com
+uiboot.netflix.com
+api-global.netflix.com
+preapp.prod.partner.netflix.com
+nrdp70-appboot.netflix.com
+#安卓版
 DOMAIN-SUFFIX,android.prod.cloud.netflix.com
 DOMAIN-SUFFIX,android.prod.ftl.netflix.com
 DOMAIN-SUFFIX,android-appboot.netflix.com
+#iOS版
 DOMAIN-SUFFIX,ios.prod.ftl.netflix.com
 DOMAIN-SUFFIX,ios.prod.http1.netflix.com
 DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
+#登录验证相关
 DOMAIN-SUFFIX,secure.netflix.com
 DOMAIN-SUFFIX,nrdp70-appboot.netflix.com
 DOMAIN-SUFFIX,nrdp-ipv6.prod.ftl.netflix.com
