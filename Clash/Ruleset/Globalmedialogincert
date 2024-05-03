@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,ichnaea.netflix.com
 DOMAIN-SUFFIX,assets.nflxext.com
+DOMAIN-SUFFIX,web.prod.cloud.netflix.com
+DOMAIN-SUFFIX,oca-api.netflix.com
 #Shield TV版
 DOMAIN-SUFFIX,nrdp.prod.cloud.netflix.com
 DOMAIN-SUFFIX,uiboot.netflix.com
@@ -27,3 +29,4 @@ DOMAIN-SUFFIX,1.nflxso.net
 DOMAIN-SUFFIX,nrdp.prod.cloud.netflix.com
 DOMAIN-SUFFIX,api-global.netflix.com
 DOMAIN-SUFFIX,preapp.prod.partner.netflix.net
+DOMAIN-SUFFIX,anycast.ftl.netflix.com
