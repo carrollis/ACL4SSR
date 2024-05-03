@@ -1,10 +1,16 @@
+DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,android.prod.cloud.netflix.com
+DOMAIN-SUFFIX,android.prod.ftl.netflix.com
+DOMAIN-SUFFIX,android-appboot.netflix.com
+DOMAIN-SUFFIX,ios.prod.ftl.netflix.com
+DOMAIN-SUFFIX,ios.prod.http1.netflix.com
+DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
 DOMAIN-SUFFIX,secure.netflix.com
 DOMAIN-SUFFIX,nrdp70-appboot.netflix.com
 DOMAIN-SUFFIX,nrdp-ipv6.prod.ftl.netflix.com
 DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,1.nflxso.net
 DOMAIN-SUFFIX,nrdp.prod.cloud.netflix.com
 DOMAIN-SUFFIX,api-global.netflix.com
 DOMAIN-SUFFIX,preapp.prod.partner.netflix.net
-DOMAIN-SUFFIX,oca.nflxvideo.net
