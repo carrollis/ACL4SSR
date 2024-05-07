@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,android-appboot.netflix.com
 DOMAIN-SUFFIX,ios.prod.ftl.netflix.com
 DOMAIN-SUFFIX,ios.prod.http1.netflix.com
 DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
+DOMAIN-SUFFIX,appboot.netflix.com
+
 #登录验证相关
 DOMAIN-SUFFIX,secure.netflix.com
 DOMAIN-SUFFIX,nrdp70-appboot.netflix.com
