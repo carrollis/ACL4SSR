@@ -1,5 +1,8 @@
 # 内容：Netflix登录认证
 
+DOMAIN-SUFFIX,nrdp70-appboot.netflix.com
+DOMAIN-SUFFIX,nrdp60-appboot.netflix.com
+DOMAIN-KEYWORD,appboot
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,ichnaea.netflix.com
 DOMAIN-SUFFIX,assets.nflxext.com
@@ -8,7 +11,6 @@ DOMAIN-SUFFIX,oca-api.netflix.com
 DOMAIN-SUFFIX,nrdp.prod.cloud.netflix.com
 DOMAIN-SUFFIX,uiboot.netflix.com
 DOMAIN-SUFFIX,api-global.netflix.com
-DOMAIN-SUFFIX,nrdp70-appboot.netflix.com
 DOMAIN-SUFFIX,android.prod.cloud.netflix.com
 DOMAIN-SUFFIX,android.prod.ftl.netflix.com
 DOMAIN-SUFFIX,android-appboot.netflix.com
@@ -27,3 +29,4 @@ DOMAIN-SUFFIX,api-global.netflix.com
 DOMAIN-SUFFIX,preapp.prod.partner.netflix.net
 DOMAIN-SUFFIX,nflx-android-tv.prod.partner.netflix.net
 DOMAIN-SUFFIX,anycast.ftl.netflix.com
+DOMAIN-SUFFIX,nrdp.ws.ale.netflix.com
