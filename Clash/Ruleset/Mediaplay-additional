@@ -1,3 +1,5 @@
-cdn.cookielaw.org
-cdn.registerdisney.go.com
-media.dssott.com
+# 内容：Disney+播放cdn线路
+
+DOMAIN-SUFFIX,cdn.cookielaw.org
+DOMAIN-SUFFIX,cdn.registerdisney.go.com
+DOMAIN-SUFFIX,media.dssott.com
