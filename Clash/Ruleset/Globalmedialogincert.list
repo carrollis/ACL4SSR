@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,disney.my.sentry.io
 DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
 DOMAIN-SUFFIX,disney.connections.edge.bamgrid.com
 DOMAIN-SUFFIX,disney.playback.edge.bamgrid.com
-DOMAIN-SUFFIX,edge.bamgrid.com
+# DOMAIN-SUFFIX,edge.bamgrid.com
 DOMAIN-SUFFIX,mobile-data.onetrust.io
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,pcs.bamgrid.com
