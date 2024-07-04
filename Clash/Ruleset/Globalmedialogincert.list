@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,preapp.prod.partner.netflix.net
 DOMAIN-SUFFIX,nflx-android-tv.prod.partner.netflix.net
 DOMAIN-SUFFIX,anycast.ftl.netflix.com
 DOMAIN-SUFFIX,nrdp.ws.ale.netflix.com
+DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,appconfigs.disney-plus.net
 DOMAIN-SUFFIX,appassets.androidplatform.net
 DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
