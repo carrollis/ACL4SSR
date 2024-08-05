@@ -659,6 +659,7 @@ IP-CIDR,35.80.88.0/21,no-resolve
 IP-CIDR,35.82.136.192/29,no-resolve
 IP-CIDR,35.83.248.40/29,no-resolve
 IP-CIDR,35.84.36.0/30,no-resolve
+IP-CIDR,116.230.144.131/30,no-resolve
 IP-CIDR,35.152.74.128/29,no-resolve
 IP-CIDR,35.152.74.136/30,no-resolve
 IP-CIDR,35.152.74.144/28,no-resolve
