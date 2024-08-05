@@ -1,5 +1,5 @@
 # 内容：NetflixIP-手动抓取补充
-# 数量：863条
+# 数量：手动维护
 IP-CIDR,3.225.92.8/23,no-resolve
 IP-CIDR,54.160.93.182/23,no-resolve
 IP-CIDR,3.211.157.115/23,no-resolve
@@ -10,3 +10,4 @@ IP-CIDR,3.230.129.93/23,no-resolve
 IP-CIDR,3.211.157.115/23,no-resolve
 IP-CIDR,3.225.92.8/23,no-resolve
 IP-CIDR,54.160.93.182/23,no-resolve
+IP-CIDR,116.230.144.131/23,no-resolve
