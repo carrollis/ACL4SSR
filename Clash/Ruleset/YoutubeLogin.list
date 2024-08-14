@@ -1,4 +1,4 @@
-# 内容：固定IP地址用；115网盘：2-17，内网透明代理（带内网访问+局域网ip/DNS/网关获取，用于流媒体登录认证）
+# 内容：Youtube登录认证网址
 
 DOMAIN-SUFFIX,android.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
