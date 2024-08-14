@@ -1,1 +1,9 @@
-Hi
+# 内容：固定IP地址用；115网盘：2-17，内网透明代理（带内网访问+局域网ip/DNS/网关获取，用于流媒体登录认证）
+
+DOMAIN-SUFFIX,android.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,android.apis.google.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,ggpht.com
