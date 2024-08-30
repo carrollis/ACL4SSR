@@ -1,7 +1,7 @@
 # 内容：Youtube登录认证网址
 
 DOMAIN-SUFFIX,android.googleapis.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,android.apis.google.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,gstatic.com
