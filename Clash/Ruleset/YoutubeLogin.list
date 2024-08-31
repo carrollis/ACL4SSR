@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,android.googleapis.com
 DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,android.apis.google.com
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,i.ytimg.com
