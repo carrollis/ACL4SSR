@@ -10,9 +10,14 @@
 ;增强国外GFW：支持
 
 ruleset=🎯 全球直连,rules/ACL4SSR/Clash/LocalAreaNetwork.list
+ruleset=📲 国内IP锁定,https://raw.githubusercontent.com/carrollis/ACL4SSR-Carrollis/master/Clash/Ruleset/115login
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
-ruleset=🛑 全球拦截,rules/ACL4SSR/Clash/BanAD.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/carrollis/dead-horse/refs/heads/master/anti-ad-white-for-clash(Teddy).yaml
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/carrollis/ACL4SSR-Carrollis/refs/heads/master/Clash/Ruleset/Callis-DIY
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/refs/heads/master/anti-ad-white-for-clash.yaml
+ruleset=🛑 广告拦截,https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/Filters/AWAvenue-Ads-Rule-Clash.yaml
+ruleset=🛑 广告拦截,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-clash.yaml
 ruleset=🍃 应用净化,rules/ACL4SSR/Clash/BanProgramAD.list
 ruleset=🔮 国内流媒体登录,https://raw.githubusercontent.com/carrollis/ACL4SSR-Carrollis/refs/heads/master/Clash/Ruleset/Chinamedialogin
 ruleset=🔮 全球流媒体登录,https://raw.githubusercontent.com/carrollis/ACL4SSR-Carrollis/master/Clash/Ruleset/Globalmedialogincert.list
