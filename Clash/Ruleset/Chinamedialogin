@@ -1,4 +1,12 @@
 # B站登录
-biliapi.net
-bilibili.com
-hdslb.com
+DOMAIN,www.bilibili.com
+DOMAIN,cm.bilibili.com
+DOMAIN,api.bilibili.com
+DOMAIN,api.vc.bilibili.com
+DOMAIN,api.live.bilibili.com
+DOMAIN,passport.bilibili.com
+DOMAIN,data.bilibili.com
+DOMAIN,broadcast.chat.bilibili.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,bangumi.bilibili.com
+DOMAIN,manga.bilibili.com
