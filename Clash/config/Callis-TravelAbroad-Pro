@@ -46,7 +46,7 @@ ruleset=🚀 中国代理,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 中国代理
-custom_proxy_group=🚀 中国代理`select`[]DIRECT`[]🇨🇳 中国节点
+custom_proxy_group=🚀 中国代理`select`[]DIRECT`[]🇨🇳 中国节点`[]🔮 私人固定
 custom_proxy_group=🚀 手动切换`select`.*
 custom_proxy_group=🛩️ 美国备用`select`.*
 custom_proxy_group=🛩️ 日本备用`select`.*
