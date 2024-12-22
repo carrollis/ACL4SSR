@@ -1,3 +1,4 @@
-# 内容：BBC Sounds音频cdn内容播放
+# 内容：BBC Sounds音频，b站cdn内容播放
 
 DOMAIN-SUFFIX,as-hls-ww-live.akamaized.net
+DOMAIN-SUFFIX,bilivideo.com
