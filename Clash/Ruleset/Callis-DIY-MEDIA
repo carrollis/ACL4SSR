@@ -1,12 +1,24 @@
-# 内容：国内流媒体视频cdn内容播放-B站，优酷，网易云音乐，qq音乐
+# 内容：国内流媒体视频cdn内容播放-B站，优酷，网易云音乐，qq音乐，爱奇艺
 # 适用：回国规则
 
+# Bilibili
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,app.bilibili.com
 DOMAIN-SUFFIX,live.bilibili.com
+
+# 优酷
 DOMAIN-SUFFIX,alicdn.com
 # DOMAIN-SUFFIX,ott.cibntv.net
+
+# 网易云音乐
 DOMAIN-SUFFIX,music.163.com
+
+# QQ音乐
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN-SUFFIX,p2ptun.qq.com
+# DOMAIN-SUFFIX,stream.qqmusic.qq.com
+
+# 爱奇艺
+DOMAIN-SUFFIX,cdn.bcebos.com
+DOMAIN-SUFFIX,video.iqiyi.com
