@@ -27,4 +27,8 @@ DOMAIN-SUFFIX,video.iqiyi.com
 DOMAIN-SUFFIX,xmcdn.com
 
 # 小宇宙
-dOMAIN-SUFFIX,xyzcdn.net
+DOMAIN-SUFFIX,xyzcdn.net
+
+# 小红书
+DOMAIN-SUFFIX,xhscdn.com
+
