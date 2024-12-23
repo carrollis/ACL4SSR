@@ -1,4 +1,5 @@
 # 内容：国内流媒体视频cdn内容播放-B站，优酷，
+# 适用：回国规则
 
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biliapi.net
