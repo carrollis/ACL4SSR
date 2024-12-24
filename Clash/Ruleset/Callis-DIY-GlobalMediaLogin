@@ -1,6 +1,7 @@
-# 内容：Netflix登录认证 4-33
-# 内容：Disney+登录认证 34-
+# 内容：海外流媒体视频登录认证-Netflix,Disney Plus
+# 适用：出海规则
 
+# Netflix
 DOMAIN-SUFFIX,nrdp60-appboot.netflix.com
 DOMAIN-SUFFIX,nrdp70-appboot.netflix.com
 DOMAIN-KEYWORD,appboot
@@ -32,6 +33,8 @@ DOMAIN-SUFFIX,nflx-android-tv.prod.partner.netflix.net
 DOMAIN-SUFFIX,anycast.ftl.netflix.com
 DOMAIN-SUFFIX,nrdp.ws.ale.netflix.com
 DOMAIN-SUFFIX,netflix.com
+
+# Disney Plus
 DOMAIN-SUFFIX,appconfigs.disney-plus.net
 DOMAIN-SUFFIX,appassets.androidplatform.net
 DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
