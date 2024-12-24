@@ -2,5 +2,6 @@
 # 适用：出海规则
 
 # BBC Sound
-DOMAIN-SUFFIX,as-hls-ww-live.akamaized.net
-dOMAIN-SUFFIX,bbci.co.uk
+DOMAIN,as-hls-ww-live.akamaized.net
+DOMAIN,live.cf.md.bbci.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
