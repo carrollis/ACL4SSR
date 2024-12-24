@@ -3,6 +3,6 @@
 
 # BBC Sound
 DOMAIN,as-hls-ww-live.akamaized.net
-DOMAIN-SUFFIX,akamaized.net
+# DOMAIN-SUFFIX,akamaized.net
 DOMAIN,live.cf.md.bbci.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
