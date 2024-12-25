@@ -4,8 +4,7 @@
 # Bilibili
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,app.bilibili.com
-DOMAIN-SUFFIX,live.bilibili.com
+DOMAIN,live.bilibili.com
 
 # 优酷
 DOMAIN-SUFFIX,alicdn.com
@@ -16,19 +15,19 @@ IP-CIDR,123.88.0.0/16,no-resolve
 IP-CIDR,111.53.0.0/16,no-resolve
 
 # 网易云音乐
-DOMAIN-SUFFIX,music.163.com
+DOMAIN,music.163.com
 
 # QQ音乐
-DOMAIN-SUFFIX,y.qq.com
-DOMAIN-SUFFIX,p2ptun.qq.com
-DOMAIN-SUFFIX,musicps.p2p.qq.com
-DOMAIN-SUFFIX,stream.qqmusic.qq.com
+DOMAIN,y.qq.com
+DOMAIN,p2ptun.qq.com
+DOMAIN,p2p.qq.com
+DOMAIN,stream.qqmusic.qq.com
 DOMAIN-SUFFIX,bdycdn.cn
 
 # 爱奇艺
-DOMAIN-SUFFIX,cdn.bcebos.com
-DOMAIN-SUFFIX,video.iqiyi.com
-DOMAIN-SUFFIX,baiducdnct.inter.iqiyi.com
+DOMAIN,cdn.bcebos.com
+DOMAIN,video.iqiyi.com
+DOMAINX,baiducdnct.inter.iqiyi.com
 IP-CIDR,123.129.0.0/16,no-resolve
 IP-CIDR,116.211.0.0/16,no-resolve
 IP-CIDR,125.121.0.0/16,no-resolve
@@ -44,6 +43,21 @@ DOMAIN-SUFFIX,xmcdn.com
 
 # 小宇宙
 DOMAIN-SUFFIX,xyzcdn.net
+
+# 115网盘
+DOMAIN,cpats01.115.com
+DOMAIN-SUFFIX,115cdn.com
+DOMAIN-SUFFIX,115cdn.net
+
+# 百度网盘
+DOMAIN-SUFFIX,antpcdn.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,baiduyuncdn.cn
+DOMAIN-SUFFIX,baiduyuncdn.com
+DOMAIN-SUFFIX,baiduyuncdn.net
+DOMAIN-SUFFIX,baidu-cdn.net
+DOMAIN-SUFFIX,aicdn.work
 
 # 小红书
 DOMAIN-SUFFIX,xhscdn.com
