@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,bdycdn.cn
 # 爱奇艺
 DOMAIN,cdn.bcebos.com
 DOMAIN,video.iqiyi.com
-DOMAIN,1baiducdnct.inter.iqiyi.com
+DOMAIN,baiducdnct.inter.iqiyi.com
 IP-CIDR,123.129.0.0/16,no-resolve
 IP-CIDR,116.211.0.0/16,no-resolve
 IP-CIDR,125.121.0.0/16,no-resolve
